@@ -1,0 +1,17 @@
+{
+  "name": "@game-soft/pc-engine",
+  "version": "0.0.1",
+  "main": "lib/main.js",
+  "description": "PC Engine soft list of release dates",
+  "files": [
+    "README.md",
+    "lib/",
+    "data/soft_list.js"
+  ],
+  "repository": "game-soft/pc-engine",
+  "author": "daisuke.takayama",
+  "license": "MIT",
+  "ignore": [
+    ".*"
+  ]
+}
