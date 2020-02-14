@@ -1883,9 +1883,10 @@
   price: 7200
 - id: 315
   release_date: '1991-12-13'
-  title: ゲンジ通信あげだま  NECホームエレクトロニクス
-  publisher: ''
-  bit_memory: '5800'
+  title: ゲンジ通信あげだま
+  publisher: NECホームエレクトロニクス
+  bit_memory: ''
+  price: 5800
 - id: 316
   release_date: '1991-12-13'
   title: スーパーCD-ROM2体験ソフト集
@@ -2044,9 +2045,10 @@
   price: 4800
 - id: 342
   release_date: '1992-02-28'
-  title: 出たな!!ツインビー  コナミ
-  publisher: ''
-  bit_memory: '6800'
+  title: 出たな!!ツインビー
+  publisher: 'コナミ'
+  bit_memory: ''
+  price: 6800
 - id: 343
   release_date: '1992-02-28'
   title: ヒューマンスポーツ フェスティバル
@@ -3267,9 +3269,10 @@
   price: 6800
 - id: 546
   release_date: '1994-03-12'
-  title: 餓狼伝説2 ハドソン
-  publisher: ''
-  bit_memory: '6900'
+  title: 餓狼伝説2
+  publisher: 'ハドソン'
+  bit_memory: ''
+  price: 6900
 - id: 547
   release_date: '1994-03-25'
   title: CALIII 完結編
